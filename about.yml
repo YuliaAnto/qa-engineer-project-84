@@ -1,8 +1,8 @@
 ---
-name: Ilona Maskova # Юлия Антонова
+name: Yulia Antonova
 job: QA Engineer
 level: junior
-email: ilona@hexlet.io
+email: antonovajulia@gmail.com
 description: |
  Тестирование интернет-магазина
   
@@ -11,5 +11,4 @@ skills:
   - Функциональное тестирование
   - Написание багрепортов
   - Linux
-  - Слепая печать
-  - Английский язык C1
+  - Английский язык B1
