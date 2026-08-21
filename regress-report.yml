@@ -14,7 +14,7 @@ test-cases:
 
   - summary: |
      Поиск по ключевому слову
-    status: fail
+    status: pass
 
 bugreports:
   - summary: |
