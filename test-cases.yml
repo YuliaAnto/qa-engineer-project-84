@@ -36,7 +36,7 @@
   steps:
     - Ввести ключевое слово «mascara» в строку поиска 
     - Нажать «Найти»
-  expected_result: 
+  expected-result: 
     Отобразились товары, содержащие ключевое слово в названии
 
 - summary: 
@@ -49,5 +49,5 @@
    Empty
   steps: 
     - Выбрать категорию «beauty»
-  expected_result:
+  expected-result:
     Отобразились только товары выбранной категории
