@@ -4,7 +4,7 @@
     environment: 
       Windows 11
       Google Chrome 122
-    steps-to-reproduce: 
+    steps-to-reproduce: |
       - Открыть магазин
       - Переключить язык интерфейса с английского на русский
       - Посмотреть на перевод всего текста на странице
