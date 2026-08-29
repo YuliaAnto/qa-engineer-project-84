@@ -3,11 +3,11 @@
    Отображение товара в каталоге
   status: pass
 
-  - summary: |
+- summary: |
    Добавление товара в корзину
   status: pass
 
-  - summary: |
+- summary: |
    Поиск товара по ключевому слову
   status: pass
 
