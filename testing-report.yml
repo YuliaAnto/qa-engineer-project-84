@@ -1,16 +1,49 @@
 ---
-- summary: |
+- summary: 
    Отображение товара в каталоге
   status: pass
 
-- summary: |
+- summary: 
    Добавление товара в корзину
   status: pass
 
-- summary: |
+- summary: 
    Поиск товара по ключевому слову
   status: pass
 
-- summary: |
+- summary: 
    Фильтрация товаров по категории
   status: pass
+
+- summary: Страница товара
+  status: pass
+
+- summary: Фильтр по производителю
+  status: pass
+
+- summary: Фильтр по цене
+  status: pass
+
+- summary: Фильтр по наличию
+  status: pass
+
+- summary: Добавление нескольких товаров в корзину (одинаковых)
+  status: pass
+
+- summary: Добавление нескольких товаров в корзину (разных)
+  status: pass
+
+- summary: Удаление товара из корзины
+  status: pass
+
+- summary: Полная очистка корзины
+  status: pass
+
+- summary: Навигация по страницам каталога
+  status: pass
+
+- summary: Переход по хэштегу на странице товара
+  status: pass
+
+- summary: Изменение языка
+  status: fail
