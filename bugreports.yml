@@ -52,7 +52,7 @@
     actual-result: 
       Не удается перейти, хэштег не работает
 
- - summary: 
+  - summary: 
       Добавление нескольких товаров в корзину (разных)
     environment: 
       Windows 11
