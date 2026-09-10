@@ -95,7 +95,7 @@
     actual-result: 
       После закрытие окна корзина остается полной со всем списком товаров   
 
-    - summary: 
+  - summary: 
       Проверка DevTools
     environment: 
       Windows 11
