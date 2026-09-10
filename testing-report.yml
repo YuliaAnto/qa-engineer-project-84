@@ -16,7 +16,7 @@
   status: pass
 
 - summary: Страница товара
-  status: pass
+  status: fail
 
 - summary: Фильтр по производителю
   status: pass
