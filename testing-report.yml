@@ -1,7 +1,7 @@
 ---
 - summary: 
    Отображение товара в каталоге
-  status: pass
+  status: fail
 
 - summary: 
    Добавление товара в корзину
