@@ -31,7 +31,7 @@
   status: pass
 
 - summary: Добавление нескольких товаров в корзину (разных)
-  status: pass
+  status: fail
 
 - summary: Удаление товара из корзины
   status: pass
