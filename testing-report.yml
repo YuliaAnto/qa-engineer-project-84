@@ -45,5 +45,8 @@
 - summary: Переход по хэштегу на странице товара
   status: pass
 
-- summary: Изменение языка
+- summary: Изменение языка на русский
   status: fail
+
+- summary: Изменение языка на английсский
+  status: pass
