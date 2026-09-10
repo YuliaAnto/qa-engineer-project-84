@@ -2,7 +2,7 @@
 test-cases:
 - summary: 
    Отображение товара в каталоге
-  status: pass
+  status: fail
 
 - summary: 
    Добавление товара в корзину
@@ -17,7 +17,7 @@ test-cases:
   status: pass
 
 - summary: Страница товара
-  status: pass
+  status: fail
 
 - summary: Фильтр по производителю
   status: pass
@@ -32,8 +32,8 @@ test-cases:
   status: pass
 
 - summary: Добавление нескольких товаров в корзину (разных)
-  status: pass
-
+  status: fail
+  
 - summary: Удаление товара из корзины
   status: pass
 
@@ -44,10 +44,13 @@ test-cases:
   status: pass
 
 - summary: Переход по хэштегу на странице товара
-  status: pass
-
-- summary: Изменение языка
   status: fail
+
+- summary: Изменение языка на русский
+  status: fail
+  
+- summary: Изменение языка на английский
+  status: pass
 
 bugreports: []
 
