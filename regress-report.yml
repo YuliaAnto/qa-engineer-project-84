@@ -52,6 +52,18 @@ test-cases:
 - summary: Изменение языка на английский
   status: pass
 
+- summary: Негативный  тест поиска товара 
+  status: pass
+
+- summary: Оформление заказа
+  status: fail
+
+- summary: Закрытие окна заказа
+  status: fail  
+
+- summary: Проверка DevTools
+  status: fail
+
 bugreports: []
 
 
