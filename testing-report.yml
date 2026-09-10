@@ -43,7 +43,7 @@
   status: pass
 
 - summary: Переход по хэштегу на странице товара
-  status: pass
+  status: fail
 
 - summary: Изменение языка на русский
   status: fail
