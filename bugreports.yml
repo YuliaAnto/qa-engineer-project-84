@@ -107,3 +107,16 @@
       Все запросы уходят и приходят без ошибок, страница не перезагружается
     actual-result: 
       При добавлении товара в корзину в консоли DevTools наблюдаются ошибки - Failed to load resource и Failed to load resource the server responded with a status of 500  
+
+  - summary: 
+      Фильтр по цене
+    environment: 
+      Windows 11
+      Google Chrome 122
+    steps-to-reproduce: |
+      - Открыть фильтр цена
+      - Ввести минимальную и максимальную цену ( 10 и 25 )
+    expected-result: 
+      Отображаются только товары в звданом ценовом диапазоне
+    actual-result:
+      Отображается товар со стоимостью ниже выбранной минимальной цены ( Dog Food - 9.86$ )
