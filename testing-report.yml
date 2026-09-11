@@ -22,7 +22,7 @@
   status: pass
 
 - summary: Фильтр по цене
-  status: pass
+  status: fail
 
 - summary: Фильтр по наличию
   status: pass
